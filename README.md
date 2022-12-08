@@ -18,6 +18,7 @@
    <li>Python</li>
    <li>Django and Flask</li>
    <li>Docker</li>
+   <li>Linux</li>
    <li>C, C++ and Java (Intermediate)</li>
 </div>
 
