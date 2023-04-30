@@ -12,9 +12,10 @@
 <div>
   <h2>My Skills Include :</h2>
    <li>Javascript (or Nodejs)</li>
-   <li>React JS and React Native</li>
+   <li>Typescript</li>
+   <li>React JS</li>
    <li>Mongodb and SQL</li>
-   <li>Tailwind CSS</li>
+   <li>Tailwindcss and Bootstrap</li>
    <li>Python</li>
    <li>Django and Flask</li>
    <li>Docker</li>
