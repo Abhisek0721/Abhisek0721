@@ -11,7 +11,7 @@
 
 <div>
   <h2>My Skills Include :</h2>
-   <li>Javascript (or Nodejs)</li>
+   <li>Javascript and Nodejs</li>
    <li>Typescript</li>
    <li>React JS</li>
    <li>Mongodb and SQL</li>
