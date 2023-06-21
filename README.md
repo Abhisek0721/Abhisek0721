@@ -3,10 +3,10 @@
 <p align="center">Personal Portfolio : https://abhisekh.info/</p>
 <h2>👨🏻‍💻  About Me</h2>
 
-- 👀 I’m interested in learning new things like Programming, Web Development, Finance, Astronomy, Physics, Entrepreneurship, and Stock Market.
+- 👀 I’m interested in learning new things like Programming, Web Development, Philosophy, Finance, Astronomy, Physics, Entrepreneurship, and Stock Market.
 - 🌱 I’m currently learning more about Web Development and DSA.
 - 📫 How to reach me abhisekhupadhaya43@gmail.com
-- ⚡ Fun Fact: I love Playing Games and watching WWE.
+- ⚡ Fun Fact: I love Playing Games and watching Mythological and Philosophical videos.
 
 
 <div>
