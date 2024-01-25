@@ -36,7 +36,7 @@
   </a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools :</h2>
 <div align="left">
     <img src="https://example.com/path/to/javascript-logo.svg" alt="JavaScript" width="40" height="40"/>
     <img src="https://example.com/path/to/nodejs-logo.svg" alt="Node.js" width="40" height="40"/>
@@ -59,12 +59,12 @@
     <img src="https://example.com/path/to/golang-logo.svg" alt="Golang" width="40" height="40"/>
 </div>
 
-<h3 align="left">Stats</h3>
+<h2 align="left">Stats</h2>
 <div align="center">
-  <div>
+  <div align="left">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhisek0721&show_icons=true&theme=radical" height="180em" />
   </div>
-  <div>
+  <div align="left">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek0721&show_icons=true&theme=radical&hide=html,css,scss&langs_count=10" />
   </div>
 </div>
