@@ -60,13 +60,11 @@
 </div>
 
 <h2 align="left">Stats</h2>
-<div align="center">
-  <div align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhisek0721&show_icons=true&theme=radical" height="180em" />
-  </div>
-  <div align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek0721&show_icons=true&theme=radical&hide=html,css,scss&langs_count=5" height="180em" />
-  </div>
+<div align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhisek0721&show_icons=true&theme=radical" height="180em" />
+</div>
+<div align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek0721&show_icons=true&theme=radical&hide=html,css,scss&langs_count=5" height="180em" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
