@@ -38,7 +38,7 @@
 
 <h2 align="left">Languages and Tools :</h2>
 <div align="left">
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,expressjs,nestjs,ts,jest,react,mongodb,mysql,tailwindcss,bootstrap,django,flask,,golang,linux,docker,git,c,cpp,java,kotlin" />
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,expressjs,nestjs,ts,jest,react,mongodb,mysql,tailwindcss,bootstrap,django,flask,ec2,aws,golang,linux,docker,git,c,cpp,java,kotlin" />
 </div>
 
 <h2 align="left">Stats</h2>
