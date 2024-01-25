@@ -59,3 +59,4 @@
     <img src="https://example.com/path/to/golang-logo.svg" alt="Golang" width="40" height="40"/>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
