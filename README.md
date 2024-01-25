@@ -61,7 +61,7 @@
 
 <h2 align="left">Stats</h2>
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhisek0721&show_icons=true&theme=radical" height="180em" />
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhisek0721&show_icons=true&theme=radical" height="180em" /> -->
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek0721&layout=donut-vertical&show_icons=true&theme=radical&hide=scss&langs_count=10" />
 </div>
 
