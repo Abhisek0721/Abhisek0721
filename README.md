@@ -59,4 +59,4 @@
     <img src="https://example.com/path/to/golang-logo.svg" alt="Golang" width="40" height="40"/>
 </div>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhisek0721&show_icons=true&theme=cobalt)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhisek0721&show_icons=true&theme=radical)
