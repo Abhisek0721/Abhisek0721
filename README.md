@@ -65,7 +65,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhisek0721&show_icons=true&theme=radical" height="180em" />
   </div>
   <div align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek0721&show_icons=true&theme=radical&hide=html,css,scss&langs_count=10" height="180em" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek0721&show_icons=true&theme=radical&hide=html,css,scss&langs_count=5" height="180em" />
   </div>
 </div>
 
