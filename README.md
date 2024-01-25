@@ -62,7 +62,8 @@
 <h3 align="left">Stats</h3>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhisek0721&show_icons=true&theme=radical" height="180em" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek0721&size_weight=0.5&count_weight=0.5)
+  </br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
