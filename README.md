@@ -38,23 +38,24 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-[![JavaScript](https://example.com/path/to/javascript-logo.svg)](https://www.javascript.com/)
-[![Node.js](https://example.com/path/to/nodejs-logo.svg)](https://nodejs.org/)
-[![Express.js](https://example.com/path/to/expressjs-logo.svg)](https://expressjs.com/)
-[![Nest.js](https://example.com/path/to/nestjs-logo.svg)](https://nestjs.com/)
-[![TypeScript](https://example.com/path/to/typescript-logo.svg)](https://www.typescriptlang.org/)
-[![React.js](https://example.com/path/to/reactjs-logo.svg)](https://reactjs.org/)
-[![MongoDB](https://example.com/path/to/mongodb-logo.svg)](https://www.mongodb.com/)
-[![SQL](https://example.com/path/to/sql-logo.svg)](https://www.sql.org/)
-[![Tailwind CSS](https://example.com/path/to/tailwindcss-logo.svg)](https://tailwindcss.com/)
-[![Bootstrap](https://example.com/path/to/bootstrap-logo.svg)](https://getbootstrap.com/)
-[![Python](https://example.com/path/to/python-logo.svg)](https://www.python.org/)
-[![Django](https://example.com/path/to/django-logo.svg)](https://www.djangoproject.com/)
-[![Flask](https://example.com/path/to/flask-logo.svg)](https://flask.palletsprojects.com/)
-[![Docker](https://example.com/path/to/docker-logo.svg)](https://www.docker.com/)
-[![Linux](https://example.com/path/to/linux-logo.svg)](https://www.linux.org/)
-[![Git](https://example.com/path/to/git-logo.svg)](https://git-scm.com/)
-[![C++](https://example.com/path/to/cpp-logo.svg)](https://isocpp.org/)
-[![Java](https://example.com/path/to/java-logo.svg)](https://www.java.com/)
-[![Golang](https://example.com/path/to/golang-logo.svg)](https://golang.org/)
+    <img src="https://example.com/path/to/javascript-logo.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://example.com/path/to/nodejs-logo.svg" alt="Node.js" width="40" height="40"/>
+    <img src="https://example.com/path/to/expressjs-logo.svg" alt="Express.js" width="40" height="40"/>
+    <img src="https://example.com/path/to/nestjs-logo.svg" alt="Nest.js" width="40" height="40"/>
+    <img src="https://example.com/path/to/typescript-logo.svg" alt="TypeScript" width="40" height="40"/>
+    <img src="https://example.com/path/to/reactjs-logo.svg" alt="React.js" width="40" height="40"/>
+    <img src="https://example.com/path/to/mongodb-logo.svg" alt="MongoDB" width="40" height="40"/>
+    <img src="https://example.com/path/to/sql-logo.svg" alt="SQL" width="40" height="40"/>
+    <img src="https://example.com/path/to/tailwindcss-logo.svg" alt="Tailwind CSS" width="40" height="40"/>
+    <img src="https://example.com/path/to/bootstrap-logo.svg" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://example.com/path/to/python-logo.svg" alt="Python" width="40" height="40"/>
+    <img src="https://example.com/path/to/django-logo.svg" alt="Django" width="40" height="40"/>
+    <img src="https://example.com/path/to/flask-logo.svg" alt="Flask" width="40" height="40"/>
+    <img src="https://example.com/path/to/docker-logo.svg" alt="Docker" width="40" height="40"/>
+    <img src="https://example.com/path/to/linux-logo.svg" alt="Linux" width="40" height="40"/>
+    <img src="https://example.com/path/to/git-logo.svg" alt="Git" width="40" height="40"/>
+    <img src="https://example.com/path/to/cpp-logo.svg" alt="C++" width="40" height="40"/>
+    <img src="https://example.com/path/to/java-logo.svg" alt="Java" width="40" height="40"/>
+    <img src="https://example.com/path/to/golang-logo.svg" alt="Golang" width="40" height="40"/>
 </div>
+
